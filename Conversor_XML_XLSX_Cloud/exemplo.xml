@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+  <cliente codigo="001"><nome>João</nome><cidade>Goiânia</cidade><ativo>TRUE</ativo></cliente>
+  <cliente codigo="002"><nome>Maria</nome><cidade>Anápolis</cidade><ativo>FALSE</ativo></cliente>
+</clientes>
